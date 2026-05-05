@@ -4,6 +4,8 @@ _Commercial & Sustainability Decision Support Tool for UK FMCG Procurement_
 
 A high-precision analytical tool designed to help Coffee Category Buyers and Procurement Managers navigate the "triple squeeze" of the 2026 coffee market: Arabica price volatility, GBP/USD exchange rate fluctuations, and mandatory ESG (Carbon) reporting.
 
+Link: https://coffee-blend-checker.streamlit.app 
+
 **The Problem**
 
 The UK coffee industry is currently facing record-high Arabica prices and a volatile Sterling. Traditional procurement often relies on static spreadsheets that fail to show the real-time impact of blend changes on both the bottom line (Profit) and the planet (Carbon).
